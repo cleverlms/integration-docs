@@ -14,4 +14,4 @@
 | to        | Bad login format                             | Bad login format                  |
 | to        | Login is already exists                      | Login is already exists  |
 
-### [Example response](https://github.com/cleverlms/integration-docs/blob/master/examples/v3/user/login_rename.json)
+### [Example response](https://github.com/cleverlms/integration-docs/blob/main/examples/v3/user/login_rename.json)

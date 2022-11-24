@@ -8,4 +8,4 @@
 | login     | Value should be at least <min limit> symbols | Value should be at least <min limit> symbols      |
 | login     | Login does not exist                         | Login does not exist                                |
 
-### [Example response](https://github.com/cleverlms/integration-docs/blob/master/examples/v3/user/login_delete.json)
+### [Example response](https://github.com/cleverlms/integration-docs/blob/main/examples/v3/user/users_delete.json)

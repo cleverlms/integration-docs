@@ -1,0 +1,56 @@
+{
+  "data": [{
+    "id": 59,
+    "name": "Learning program",
+    "points": 30,
+    "materials": {
+      "pdf": 0,
+      "scorm": 0,
+      "link": 0,
+      "html": 0,
+      "test": 0,
+      "video": 1,
+      "longread": 0,
+      "document": 0,
+      "total": 1
+    },
+    "statistics": [{
+      "login": "xutest",
+      "user_status": "active",
+      "program_status": "in_progress",
+      "progress": 0,
+      "points": 20,
+      "start_at": "2020-11-11T18:11:08+03:00",
+      "active_at": "2020-11-11T18:11:27+03:00",
+      "end_at": null,
+      "passed_at_time": null,
+      "pdf": 0,
+      "scorm": 0,
+      "link": 0,
+      "html": 0,
+      "test": 0,
+      "video": 1,
+      "longread": 0,
+      "document": 0
+    }, {
+      "login": "noname2",
+      "user_status": "active",
+      "program_status": "completed",
+      "progress": 100,
+      "points": 30,
+      "start_at": "2020-11-11T17:52:25+03:00",
+      "active_at": "2020-11-11T17:56:27+03:00",
+      "end_at": "2020-11-11T17:56:27+03:00",
+      "passed_at_time": true,
+      "pdf": 0,
+      "scorm": 0,
+      "link": 0,
+      "html": 0,
+      "test": 0,
+      "video": 1,
+      "longread": 0,
+      "document": 0
+    }]
+  }],
+  "include": []
+}

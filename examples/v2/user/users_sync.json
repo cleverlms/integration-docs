@@ -1,0 +1,71 @@
+{
+    "data": [{
+        "index": 1,
+        "login": null,
+        "status": "error",
+        "errors": [{
+            "code": 1007,
+            "field": "login",
+            "message": "Missing login"
+        }]
+    }, {
+        "index": 4,
+        "login": "john.w",
+        "status": "error",
+        "errors": [{
+            "code": 1007,
+            "field": "email",
+            "message": "Value is not unique"
+        }]
+    }, {
+        "index": 2,
+        "login": "helen.k",
+        "status": "updated",
+        "data": {
+            "status": "active"
+        }
+    }, {
+        "index": 4,
+        "login": "lazy.b",
+        "status": "created",
+        "data": {
+            "status": "active",
+            "password": "2buHZCBk"
+        }
+    }, {
+        "index": null,
+        "login": "Test01",
+        "status": "updated",
+        "data": {
+            "status": "blocked"
+        }
+    }, {
+        "index": null,
+        "login": "Test02",
+        "status": "updated",
+        "data": {
+            "status": "blocked"
+        }
+    }, {
+        "index": null,
+        "login": "BRD0000005000",
+        "status": "updated",
+        "data": {
+            "status": "blocked"
+        }
+    }, {
+        "index": null,
+        "login": "aron.m",
+        "status": "updated",
+        "data": {
+            "status": "blocked"
+        }
+    }, {
+        "index": null,
+        "login": "wise.b",
+        "status": "updated",
+        "data": {
+            "status": "blocked"
+        }
+    }]
+}

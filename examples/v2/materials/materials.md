@@ -1,7 +1,5 @@
-## Поиск материалов
-### Перечень возможных ошибок
-| Атрибут | Ошибка                        | Описание                                            |
-|---------|:------------------------------|-----------------------------------------------------|
-|  |  |  |
-
-<!-- ### [Пример ответа](https://github.com/ekvio-dev/integration-api-response-examples/blob/master/examples/v2/user/login_delete.json) -->
+## Search materials
+### Error list
+| Attribute | Error | Description |
+|-----------|:------|-------------|
+|           |       |             |

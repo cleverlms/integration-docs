@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"index": 3,
+		"status": "error",
+		"errors": [{
+			"code": 1007,
+			"field": "login",
+			"message": "Login is not exist"
+		}]
+	}, {
+		"index": 4,
+		"status": "error",
+		"errors": [{
+			"code": 1007,
+			"field": "kpi",
+			"message": "KPI is not exist"
+		}, {
+			"code": 1007,
+			"field": "amount",
+			"message": "Incorrect count"
+		}]
+	}],
+	"meta": {
+		"statistic": {
+			"total": 4,
+			"success": 2,
+			"errors": 2
+		}
+	}
+}

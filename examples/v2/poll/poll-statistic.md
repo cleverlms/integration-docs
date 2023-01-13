@@ -2,7 +2,7 @@
 ### Response format
 Report format **JSON**
 ### Reponse structure
-| Attribute | Description                                                           | Типы значений |
+| Attribute | Description                                                           | Data type     |
 |-----------|-----------------------------------------------------------------------|---------------|
 | id        | Poll ID                                                               | int           |
 | login     | Login                                                                 | string        |

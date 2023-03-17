@@ -10,7 +10,7 @@
         }]
     }, {
         "index": 4,
-        "login": "john.w",
+        "login": "ivanova_ag",
         "status": "error",
         "errors": [{
             "code": 1007,
@@ -19,14 +19,14 @@
         }]
     }, {
         "index": 2,
-        "login": "helen.k",
+        "login": "petrov_iv",
         "status": "updated",
         "data": {
             "status": "active"
         }
     }, {
         "index": 4,
-        "login": "lazy.b",
+        "login": "sidorov_ag",
         "status": "created",
         "data": {
             "status": "active",
@@ -55,17 +55,26 @@
         }
     }, {
         "index": null,
-        "login": "aron.m",
+        "login": "svolkov",
         "status": "updated",
         "data": {
             "status": "blocked"
         }
     }, {
         "index": null,
-        "login": "wise.b",
+        "login": "VBonch",
         "status": "updated",
         "data": {
             "status": "blocked"
         }
-    }]
+    },
+        {
+            "index": 3,
+            "login": "Jhon.K",
+            "status": "unchanged",
+            "data": {
+                "status": "blocked"
+            }
+        }
+    ]
 }

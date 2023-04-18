@@ -7,6 +7,9 @@ Repost format **JSON**
 |------------|---------------------------------|---------------|
 | id         | Learning program ID             | int           |
 | name       | Learning program name           | string / null |
+| deadline_type | Deadline type                   | string / null|
+| deadline_at | Deadline value in unixtime      | int / null|
+| deadline_period_at | Deadline type period            | string / null|
 | points     | Maximum points                  | int           |
 | materials  | Learning program structure      | array         |
 | statistics | Learning program user statistic | array         |

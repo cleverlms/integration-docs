@@ -3,15 +3,18 @@
 Response format **JSON**
 
 ### Response structure
-| Attribute  | Description                          | Data type |
-|------------|--------------------------------------|-----------|
-| task       | Task ID                              | int       |
-| login      | Login                                | string    |
-| answer     | Answer id                            | int       |
-| status     | Status (checking, completed, failed) | string    |
-| comment    | User comment                         | string    |
-| created_at | Create date                          | string    |
-| fields     | Answer list                          | array     |
+| Attribute   | Description                          | Data type |
+|-------------|--------------------------------------|-----------|
+| task        | Task ID                              | int       |
+| login       | Login                                | string    |
+| answer      | Answer id                            | int       |
+| status      | Status (checking, completed, failed) | string    |
+| comment     | User comment                         | string    |
+| created_at  | Create date                          | string    |
+| reviewed_by | Answer reviewer                      | string    |
+| role        | Reviewer role                        | string    |
+| checked_at  | Check data                         | string    |
+| fields      | Answer list                          | array     |
 
 ### Answer list (attrbiute fields)
 | Attrbiute | Description | Data type |

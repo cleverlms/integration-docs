@@ -6,6 +6,10 @@
             "login": "testprofi"
         }
     }, {
+        "index": 3,
+        "status": "unchanged",
+        "attributes": []
+    },{
         "index": 0,
         "status": "error",
         "errors": [{
@@ -24,8 +28,8 @@
     }],
     "meta": {
         "statistic": {
-            "total": 3,
-            "success": 1,
+            "total": 4,
+            "success": 2,
             "errors": 2
         }
     }

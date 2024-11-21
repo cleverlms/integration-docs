@@ -38,15 +38,16 @@ Repost format **JSON**
 | start_at       | Start date. Format Y-m-d\TH:i:sP (example, 2020-12-01T15:52:01+03:00)                             | string / null  |
 | active_at      | Last activity date in learning program. Format Y-m-d\TH:i:sP (example, 2020-12-01T15:52:01+03:00) | string / null  |
 | end_at         | End date. Format Y-m-d\TH:i:sP (example, 2020-12-01T15:52:01+03:00)                               | string / null  |
+| deadline_at         | Deadline date. Format Y-m-d\TH:i:sP (example, 2020-12-01T15:52:01+03:00)                          | string / null  |
 | passed_at_time | Passed at time flag                                                                               | boolean / null |
 | pdf            | Count passed materials PDF                                                                        | int            |
-| scorm          | Count passed materials SCORM                                                       | int            |
-| link           | Count passed materials LINK                                                        | int            |
-| html           | Count passed materials HTML                                                        | int            |
-| test           | Count passed materials TEST                                                        | int            |
-| video          | Count passed materials VIDEO                                                       | int            |
-| longread       | Count passed materials LONGREAD                                                    | int            |
-| document       | Count passed materials DOCUMENT                                                    | int            |
+| scorm          | Count passed materials SCORM                                                                      | int            |
+| link           | Count passed materials LINK                                                                       | int            |
+| html           | Count passed materials HTML                                                                       | int            |
+| test           | Count passed materials TEST                                                                       | int            |
+| video          | Count passed materials VIDEO                                                                      | int            |
+| longread       | Count passed materials LONGREAD                                                                   | int            |
+| document       | Count passed materials DOCUMENT                                                                   | int            |
 
 ### Example
 [Response example](https://github.com/cleverlms/integration-docs/blob/main/examples/v2/learning-program/learning-program-statistic-response.json)

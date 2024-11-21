@@ -18,6 +18,7 @@ Report format **JSON**
 | user_status     | User status (active, blocked)                                                 | string        |
 | material_status | User status in material (appointed, in_progress, completed, checking, fail)   | string        |
 | points          | User points                                                                   | int / null    |
+| attempts        | User test count attempts                                                      | int / null    |
 | progress        | User progress                                                                 | int           |
 | start_at        | Date begin. Format Y-m-d\TH:i:sP (example, 2020-12-01T15:52:01+03:00)         | string / null |
 | end_at          | Date end. Format Y-m-d\TH:i:sP (example, 2020-12-01T15:52:01+03:00)           | string / null |
